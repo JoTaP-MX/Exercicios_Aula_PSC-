@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MedidordeTerreno {
+public class Medidor_de_Terreno {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

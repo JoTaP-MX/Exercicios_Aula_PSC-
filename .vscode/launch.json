@@ -1,0 +1,98 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Classe_e_Subclasse",
+            "request": "launch",
+            "mainClass": "Classe_e_Subclasse",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        },
+        {
+            "type": "java",
+            "name": "SenhaUsuario",
+            "request": "launch",
+            "mainClass": "SenhaUsuario",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Maior_Menor_Media",
+            "request": "launch",
+            "mainClass": "Maior_Menor_Media",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        },
+        {
+            "type": "java",
+            "name": "Media",
+            "request": "launch",
+            "mainClass": "Media",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        },
+        {
+            "type": "java",
+            "name": "Media_Falta",
+            "request": "launch",
+            "mainClass": "Media_Falta",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        },
+        {
+            "type": "java",
+            "name": "MedidordeTerreno",
+            "request": "launch",
+            "mainClass": "MedidordeTerreno",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        },
+        {
+            "type": "java",
+            "name": "NumerosMega_1",
+            "request": "launch",
+            "mainClass": "NumerosMega_1",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        },
+        {
+            "type": "java",
+            "name": "NumerosMega_2",
+            "request": "launch",
+            "mainClass": "NumerosMega_2",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        },
+        {
+            "type": "java",
+            "name": "Operações",
+            "request": "launch",
+            "mainClass": "Operações",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        },
+        {
+            "type": "java",
+            "name": "Sala",
+            "request": "launch",
+            "mainClass": "Sala",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        },
+        {
+            "type": "java",
+            "name": "Soma",
+            "request": "launch",
+            "mainClass": "Soma",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        },
+        {
+            "type": "java",
+            "name": "Temperatura",
+            "request": "launch",
+            "mainClass": "Temperatura",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        }
+    ]
+}
