@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Alegria_Tristeza",
+            "request": "launch",
+            "mainClass": "Alegria_Tristeza",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        },
+        {
+            "type": "java",
             "name": "Classe_e_Subclasse",
             "request": "launch",
             "mainClass": "Classe_e_Subclasse",
