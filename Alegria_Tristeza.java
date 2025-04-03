@@ -22,7 +22,7 @@ public class Alegria_Tristeza {
             default:
 
         }
-        System.out.println("Digite a porcentagem de presença da Riley nas aulasw ");
+        System.out.println("Digite a porcentagem de presença da Riley nas aulas: ");
         int presença = leitor.nextInt();
         if (presença < 25) {
             tristeza = tristeza + 50;
