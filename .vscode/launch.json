@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sonic3",
+            "request": "launch",
+            "mainClass": "Sonic3",
+            "projectName": "Exercicios_Aula_PSC-_1544d770"
+        },
+        {
+            "type": "java",
             "name": "Alegria_Tristeza",
             "request": "launch",
             "mainClass": "Alegria_Tristeza",

@@ -20,7 +20,7 @@ public class Alegria_Tristeza {
             case 2:
                 tristeza = 30;
             default:
-
+                System.out.println("Você digitou uma opção inválida. Tente novamente!");
         }
         System.out.println("Digite a porcentagem de presença da Riley nas aulas: ");
         int presença = leitor.nextInt();
@@ -45,12 +45,12 @@ public class Alegria_Tristeza {
         int exercicios = leitor.nextInt();
         alegria = alegria + (exercicios * 10);
         int naofeito = 10 - exercicios;
-        tristeza = tristeza + naofeito * 10;
+        tristeza = tristeza + (naofeito * 10);
         if (alegria > tristeza) {
             System.out.println("A mudança para a nova cidade foi uma experiência incrível para a Riley.");
         } else {
             System.out.println("A mudança para a nova cidade foi uma experiência desagradável para a Riley.");
         }
-
+       leitor.close();
     }
 }
